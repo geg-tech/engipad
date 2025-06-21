@@ -21,10 +21,7 @@ Looking at the model, the macropad can be split into two halves with the split g
 <img width="896" alt="image" src="https://github.com/user-attachments/assets/57097617-3826-4f29-852b-110aa7868e17" /> <br/>
 
 After I got the general plan down, I started to design the PCB in KiCad, starting with the schematic. I first considered doing a matrix-style wiring for the switches, but then settled on doing direct wiring since the Hackpad microcontroller has enough GPIO to support 8 switches and LEDs and the fact that matrix wiring requires diodes which take up space on the PCB. <br/>
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/3d6b7df5-b844-486c-9a24-09e70ea20915" /> <br/>
-> K.I.S.S. keep it simple, stupid!
+<img width="1127" alt="image" src="https://github.com/user-attachments/assets/303a1b7d-37d1-4b29-93a3-a04be9bcdde5" /> <br/>
+> K.I.S.S. - keep it simple, stupid!
 
-
-
-
-
+2 hours rn
