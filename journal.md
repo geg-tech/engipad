@@ -23,7 +23,7 @@ After I got the general plan down, I started to design the PCB in KiCad, startin
 I also decided to add on an OLED screen to the macropad, putting the OLED in a slot inside the PDA's screen. I originally planned not to do this idea since the OLED didn't have any screw holes, but then I was inspired by **samliu's** solution by having a slot in their macropad case, as seen in their [Squarepad's](https://github.com/samdev-7/squarepad) CAD.<br/>
 
 <img width="1136" alt="schematic" src="https://github.com/user-attachments/assets/a7e20d25-7216-44c9-9146-bbaa4c57a77f"/> <br/>
-> K.I.S.S. - keep it simple, stupid! <br/>
+<img width="739" alt="image" src="https://github.com/user-attachments/assets/fd14d69b-7533-46b9-94bc-2cdae4c1c5d8" /> <br/>
 
 After I got the schematic, I started to work on the PCB design, mirroring the 3x3 grid of the Engineer's PDA with the 8th key taking up twice the space and adding RGB lights between the switches. I considered having the PCB extend throughout the macropad, but found it easier to place the RP2040 going to the side to compact the PCB below 100mm x 100mm in order to save money. <br/>
 I also threw in some silkscreen art, making a TF2 inspired graphic for the front and a Highway backside, as well as a lanyard hole for extra PCBs! <br/>
