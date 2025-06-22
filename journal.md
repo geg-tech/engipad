@@ -34,7 +34,4 @@ I also threw in some silkscreen art, making a TF2 inspired graphic for the front
 
 I made the backside with Figma, using the frame technique I learned from the Highway Figma magazine to place and design my back silkscreen (and is by far my favorite pcb made yet :3) <br/>
 
-
-
-
-hours as of now: 5
+time spent: 6 hours planning, designing PCB, and making art
