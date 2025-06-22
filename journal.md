@@ -42,7 +42,7 @@ This left me with recreating the model in Fusion. I found a source online that h
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/a56af7bd-52d8-4888-ad8a-e0b68d62c9c9" />
 <img width="330" alt="image" src="https://github.com/user-attachments/assets/3926d01e-f9ed-4adf-b636-3bcc7b0da9c2" />
 <img width="130" alt="image" src="https://github.com/user-attachments/assets/2bbfcb45-d257-407a-9831-fab0740dc432" />
-<img width="230" alt="image" src="https://github.com/user-attachments/assets/52e380ab-e1a1-45fb-8abe-5fc80feb4d46" /> <br/>
+<img width="130" alt="image" src="https://github.com/user-attachments/assets/52e380ab-e1a1-45fb-8abe-5fc80feb4d46" /> <br/>
 <img width="642" alt="image" src="https://github.com/user-attachments/assets/4c0699ad-734c-4e60-8fc8-96bbb3aee36c" />
 
 
