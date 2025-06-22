@@ -27,7 +27,7 @@ I also decided to add on an OLED screen to the macropad, putting the OLED in a s
 
 After I got the schematic, I started to work on the PCB design, mirroring the 3x3 grid of the Engineer's PDA with the 8th key taking up twice the space and adding RGB lights between the switches. I considered having the PCB extend throughout the macropad, but found it easier to place the RP2040 going to the side to compact the PCB below 100mm x 100mm in order to save money. <br/>
 I also threw in some silkscreen art, making a TF2 inspired graphic for the front and a Highway backside, as well as a lanyard hole for extra PCBs! <br/>
-<img width="330" alt="pcb" src="https://github.com/user-attachments/assets/887abc10-1c97-4398-81d6-aff8a565b059" />
+<img width="360" alt="pcb" src="https://github.com/user-attachments/assets/887abc10-1c97-4398-81d6-aff8a565b059" />
 <img width="300" alt="front" src="https://github.com/user-attachments/assets/e066c240-e10d-4351-82b8-55b68a5b1308" />
 <img width="270" alt="back" src="https://github.com/user-attachments/assets/4c38c8c5-c9f6-4786-b6e8-931cc1d7eb5f" /><br/>
 > note: i disabled the silkscreen in the PCB view since it made the board look very cluttered lol <br/>
