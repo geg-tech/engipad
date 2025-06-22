@@ -35,3 +35,13 @@ I also threw in some silkscreen art, making a TF2 inspired graphic for the front
 I made the backside with Figma, using the frame technique I learned from the Highway Figma magazine to place and design my back silkscreen (and is by far my favorite pcb made yet :3) <br/>
 
 time spent: 6 hours planning, designing PCB, and making art
+
+## 6/22/25 - CAD time
+After finishing my PCB, I started working on the case. While I *could* lazily take the game files for the PDA and port them into a model, I figured that ripping and using the *exact* models from the game would definitely NOT be allowed in Highway (plus the fact that it's lame and boring). <br/>
+This left me with recreating the model in Fusion. I found a source online that had the original model for the PDA, and managed to import them into Blender to take pictures to aid in designing.
+<img width="330" alt="image" src="https://github.com/user-attachments/assets/a56af7bd-52d8-4888-ad8a-e0b68d62c9c9" />
+<img width="330" alt="image" src="https://github.com/user-attachments/assets/3926d01e-f9ed-4adf-b636-3bcc7b0da9c2" />
+<img width="366" alt="image" src="https://github.com/user-attachments/assets/2bbfcb45-d257-407a-9831-fab0740dc432" />
+
+
+
