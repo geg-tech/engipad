@@ -29,7 +29,7 @@ After I got the schematic, I started to work on the PCB design, mirroring the 3x
 I also threw in some silkscreen art, making a TF2 inspired graphic for the front and a Highway backside, as well as a lanyard hole for extra PCBs! <br/>
 <img width="330" alt="pcb" src="https://github.com/user-attachments/assets/887abc10-1c97-4398-81d6-aff8a565b059" />
 <img width="330" alt="front" src="https://github.com/user-attachments/assets/e066c240-e10d-4351-82b8-55b68a5b1308" />
-<img width="330" alt="image" src="https://github.com/user-attachments/assets/89641764-6103-4e83-9623-a2090574dbd5" /> <br/>
+<img width="330" alt="back" src="https://github.com/user-attachments/assets/4c38c8c5-c9f6-4786-b6e8-931cc1d7eb5f" /><br/>
 > note: i disabled the silkscreen in the PCB view since it made the board look very cluttered lol <br/>
 
 I made the backside with Figma, using the frame technique I learned from the Highway Figma magazine to place and design my back silkscreen (and is by far my favorite pcb made yet :3) <br/>
