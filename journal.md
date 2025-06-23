@@ -49,18 +49,19 @@ This left me with recreating the model in Fusion. I found a source online that h
 <img width="642" alt="image" src="https://github.com/user-attachments/assets/4c0699ad-734c-4e60-8fc8-96bbb3aee36c" /> <br/>
 
 After a while, I finished most the CAD for the case. I split the case apart into the two shells, as detailed above, as well as splitting the trapezoidal screen part thingy into it's own section. <br/>
+
 <img width="852" alt="image" src="https://github.com/user-attachments/assets/937b92f7-b126-4d48-943c-4717bdbecbe0" /> <br/>
 
 To mount the OLED in the screen section, I made two halves of the PDA's screen and "sandwiched" the OLED in between those two halves, with the headers poking out to connect to the PCB. The two halves are then slotted into the main shell for the screen, with the back side of one of the halves having a ledge for easy gluing. <br/>
-I initially thought of using some tiny screws to mount the two halves, but was soon shut down due to the screws being too big for this scale.
+I initially thought of using some tiny screws to mount the two halves, but was soon shut down due to the screws being too big for this scale and my printer not having *that* level of precision, especially at an angle. <br/>
+
 <img width="598" alt="image" src="https://github.com/user-attachments/assets/a29eab56-8419-419e-8294-3288b3c0815c" /> 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/71ac83fd-a54f-4823-866b-df6328ac4fcd" /><br/>
 
 The two case halves are mounted with the PCB in a sandwich style mounting, with the PCB in between of the screw holes in the case shells. The case halves also have a small lip where they can interlock to improve alignment and ease of building, which is used between the top shell and the screen section. <br/>
+
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/a68fb8c7-a835-4aa8-9831-1b98c7afa231" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/0e14d4f4-3a62-46f5-83c7-b31d73319335" /> <br/>
-
-
 
 
 time: 5 hours cadding
