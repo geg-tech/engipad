@@ -91,8 +91,16 @@ I also SEVERELY underestimated the Render tool in Fusion, because it made the co
 ![exploded](https://github.com/user-attachments/assets/39276f28-2124-4216-81d6-68ced8c5acd1)
 ![top](https://github.com/user-attachments/assets/47f4618f-67bf-424b-89aa-fc783ae4f111)
 
-Once I had the CAD down, I started to work on the firmware. I picked QMK for the firmware, since I have experience using it from my other Highway project. I followed the guide found [here](https://docs.qmk.fm/porting_your_keyboard_to_qmk), and made a folder containing the keyboard and keymap .json files.
+Once I had the CAD down, I started to work on the firmware. I picked QMK for the firmware, since I have experience using it from my other Highway project. I followed the guide found [here](https://docs.qmk.fm/porting_your_keyboard_to_qmk), and made a folder containing the keyboard and keymap .json files. <br/>
+
 <img width="768" alt="image" src="https://github.com/user-attachments/assets/af2dd828-f764-4853-ac1f-d88555ebd348" />
+
+I edited the code to fit my Hackpad's direct, 8-key wiring, as well as setting the keybinds to correspond with shortcuts for Fusion commands, like Shift for selecting multiple elements or rotating the camera and E to extrude. I also added undo and redo macros, since I always forget what shortcut redo is lol <br/>
+
+<img width="730" alt="image" src="https://github.com/user-attachments/assets/d11282ca-410d-4f48-a493-c41721da9672" /> <br/>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a1b66564-f6f3-452d-a8b3-78c906200dd1" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a11eaad3-fe6f-448b-b62a-89670dc03cf3" /> <br/>
+
 
 
 current time: 2 hour
