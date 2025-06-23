@@ -53,8 +53,7 @@ After a while, I finished most the CAD for the case. I split the case apart into
 To mount the OLED in the screen section, I made two halves of the PDA's screen and "sandwiched" the OLED in between those two halves, with the headers poking out to connect to the PCB. The two halves are then slotted into the main shell for the screen, with the back side of one of the halves having a ledge for easy gluing. <br/>
 
 <img width="598" alt="image" src="https://github.com/user-attachments/assets/a29eab56-8419-419e-8294-3288b3c0815c" /> 
-<img width="549" alt="image" src="https://github.com/user-attachments/assets/71ac83fd-a54f-4823-866b-df6328ac4fcd" />
-<br/>
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/71ac83fd-a54f-4823-866b-df6328ac4fcd" /><br/>
 
 
 
