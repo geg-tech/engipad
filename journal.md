@@ -83,7 +83,7 @@ time: 6 hours cadding
 This morning I managed to color the Fusion model and render it. <br/>
 I took a screenshot of the PDA from the TF2 Wiki and took apart the colors, applying it to the CAD model. <br/>
 
-<img width="887" alt="image" src="https://github.com/user-attachments/assets/695958dd-c8df-4c55-bc2f-fd5fe6f137cb" /> <br
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/695958dd-c8df-4c55-bc2f-fd5fe6f137cb" /> <br/>
 
 I also SEVERELY underestimated the Render tool in Fusion, because it made the colored CAD model look so much better like wtf :sob: <br/>
 
