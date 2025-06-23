@@ -40,7 +40,7 @@ I made the backside with Figma, using the frame technique I learned from the Hig
 
 time spent: 6 hours planning, designing PCB, and making art
 
-## 6/22/25 - CAD time
+## 6/22/25 - cadding the case
 After finishing my PCB, I started working on the case. While I *could* lazily take the game files for the PDA and port them into a model, I figured that ripping and using the *exact* models from the game would definitely NOT be allowed in Highway (plus the fact that it's lame and boring). <br/>
 This left me with recreating the model in Fusion. I found a source online that had the original model for the PDA, and managed to import them into Blender to take pictures to aid in designing. <br/>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/a56af7bd-52d8-4888-ad8a-e0b68d62c9c9" />
@@ -76,9 +76,22 @@ Speaking of being game-accurate, I noticed that the keycaps on the actual PDA mo
 
 <img width="1049" alt="image" src="https://github.com/user-attachments/assets/78177199-6ed5-49bf-832b-3ff38c165bd1" /> <br/>
 
+I didn't have time to color and render the model, but I will most likely finish modeling and the Hackpad tomorrow
 time: 6 hours cadding
 
+## 6/23/25 - Rendering and finishing up 
+This morning I managed to color the Fusion model and render it. <br/>
+I took a screenshot of the PDA from the TF2 Wiki and took apart the colors, applying it to the CAD model. <br/>
 
+<img width="887" alt="image" src="https://github.com/user-attachments/assets/695958dd-c8df-4c55-bc2f-fd5fe6f137cb" /> <br
+
+I also SEVERELY underestimated the Render tool in Fusion, because it made the colored CAD model look so much better like wtf :sob: <br/>
+
+![engipad](https://github.com/user-attachments/assets/e71ce7d9-abd8-4db7-9d09-51e5451996e3)
+![exploded](https://github.com/user-attachments/assets/39276f28-2124-4216-81d6-68ced8c5acd1)
+![top](https://github.com/user-attachments/assets/47f4618f-67bf-424b-89aa-fc783ae4f111)
+
+current time: 1 hour
 
 
 
