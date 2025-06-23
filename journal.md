@@ -53,7 +53,7 @@ I initially thought of using some tiny screws to mount the two halves, but was s
 <img width="598" alt="image" src="https://github.com/user-attachments/assets/a29eab56-8419-419e-8294-3288b3c0815c" /> 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/71ac83fd-a54f-4823-866b-df6328ac4fcd" /><br/>
 
-The two case halves are mounted with the PCB in a sandwich style mounting, with the PCB in between of the screw holes in the case shells. The case halves also have a small lip where they can interlock to improve alignment and ease of building, which is used between the top shell and the screen section.
+The two case halves are mounted with the PCB in a sandwich style mounting, with the PCB in between of the screw holes in the case shells. The case halves also have a small lip where they can interlock to improve alignment and ease of building, which is used between the top shell and the screen section. <br/>
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/a68fb8c7-a835-4aa8-9831-1b98c7afa231" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/0e14d4f4-3a62-46f5-83c7-b31d73319335" /> <br/>
 
