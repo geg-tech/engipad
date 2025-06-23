@@ -95,7 +95,7 @@ Once I had the CAD down, I started to work on the firmware. I picked QMK for the
 <img width="768" alt="image" src="https://github.com/user-attachments/assets/af2dd828-f764-4853-ac1f-d88555ebd348" />
 
 
-current time: 1 hour
+current time: 2 hour
 
 
 
