@@ -63,8 +63,19 @@ The two case halves are mounted with the PCB in a sandwich style mounting, with 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/a68fb8c7-a835-4aa8-9831-1b98c7afa231" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/0e14d4f4-3a62-46f5-83c7-b31d73319335" /> <br/>
 
+For the rocker switch, I used a 11.5mm wide hole to put my own toggle switch in (the metal lever one). I *did* find an actual rocker switch like the one in-game, but it was too large for my scale. I aimed to be as game-accurate for this CAD as possible, but using an actual switch was honestly too cool to pass up in my opinion. <br/>
 
-time: 5 hours cadding
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/ba2bb7c4-a60d-4a39-a472-594544db74a6" /> <br/>
+
+However, for people who don't have a cool metal switch, I also made an alternate version of the screen shell with a rocker switch. (unfunctional though, sorry) <br/>
+
+<img width="367" alt="image" src="https://github.com/user-attachments/assets/0ef6d927-d681-4f6a-a1af-f827b6bfb62e" /> <br/>
+
+Speaking of being game-accurate, I noticed that the keycaps on the actual PDA model weren't perfectly square, but more like octogons in a way. This led to me designing my own custom keycaps, modeling them after the buttons on the Engineer's PDA. <br/>
+
+<img width="1049" alt="image" src="https://github.com/user-attachments/assets/78177199-6ed5-49bf-832b-3ff38c165bd1" /> <br/>
+
+time: 6 hours cadding
 
 
 
