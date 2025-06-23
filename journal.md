@@ -91,6 +91,8 @@ I also SEVERELY underestimated the Render tool in Fusion, because it made the co
 ![exploded](https://github.com/user-attachments/assets/39276f28-2124-4216-81d6-68ced8c5acd1)
 ![top](https://github.com/user-attachments/assets/47f4618f-67bf-424b-89aa-fc783ae4f111)
 
+Once I had the CAD down, I started to work on the firmware.
+
 current time: 1 hour
 
 
