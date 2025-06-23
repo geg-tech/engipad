@@ -103,7 +103,7 @@ I edited the code to fit my Hackpad's direct, 8-key wiring, as well as setting t
 
 
 
-current time: 2 hour
+current time: 3 hours 
 
 
 
