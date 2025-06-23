@@ -101,9 +101,9 @@ I edited the code to fit my Hackpad's direct, 8-key wiring, as well as setting t
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/a1b66564-f6f3-452d-a8b3-78c906200dd1" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/a11eaad3-fe6f-448b-b62a-89670dc03cf3" /> <br/>
 
+I also set up the code for the OLED and RGB, making the OLED print out "engineer gamin" for now and the RGB set to a default RGB pattern by QMK. I plan to fine tune and test out the firmware more accurately when the Hackpad parts come in, but this will do for now.
 
-
-current time: 3 hours 
+current time: 3 hours rendering and programming QMK firmware
 
 
 
