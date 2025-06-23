@@ -91,7 +91,9 @@ I also SEVERELY underestimated the Render tool in Fusion, because it made the co
 ![exploded](https://github.com/user-attachments/assets/39276f28-2124-4216-81d6-68ced8c5acd1)
 ![top](https://github.com/user-attachments/assets/47f4618f-67bf-424b-89aa-fc783ae4f111)
 
-Once I had the CAD down, I started to work on the firmware.
+Once I had the CAD down, I started to work on the firmware. I picked QMK for the firmware, since I have experience using it from my other Highway project. I followed the guide found [here](https://docs.qmk.fm/porting_your_keyboard_to_qmk), and made a folder containing the keyboard and keymap .json files.
+<img width="768" alt="image" src="https://github.com/user-attachments/assets/af2dd828-f764-4853-ac1f-d88555ebd348" />
+
 
 current time: 1 hour
 
