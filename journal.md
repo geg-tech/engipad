@@ -33,6 +33,9 @@ I also threw in some silkscreen art, making a TF2 inspired graphic for the front
 > note: i disabled the silkscreen in the PCB view since it made the board look very cluttered lol <br/>
 
 I made the backside with Figma, using the frame technique I learned from the Highway Figma magazine to place and design my back silkscreen (and is by far my favorite pcb made yet :3) <br/>
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/4ea7a988-6b35-4319-8c7b-bc63cf8d1e53" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/2bb894cf-b217-4565-9106-6c6de6061e70" /> <br/>
+> I used an orthographic screenshot of the PCB's backside and used Figma to draw out shapes to put on the silkscreen! The graphic was made in black and white since it's the easiest format for KiCad's image converter to work with
 
 time spent: 6 hours planning, designing PCB, and making art
 
