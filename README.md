@@ -13,7 +13,7 @@ Made as part of Hackpad! (and the design competition due in like 4 days lmfao)
 <img width="330" alt="assembled" src="https://github.com/user-attachments/assets/6f28db93-69aa-48da-b60d-dc9f083fc249" />
 <img width="330" alt="exploded" src="https://github.com/user-attachments/assets/9a8c83d2-94ca-4907-b299-c38d82dede6d" /> <br/>
 > The CAD for this case is made from scratch for anyone thinking that I just ripped the TF2 game files, refer to the mile long Fusion timeline and scroll bar below
-> <img width="1000" alt="image" src="https://github.com/user-attachments/assets/c85c55e1-cd6f-4e00-b9f1-377d97d43244" />
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/c85c55e1-cd6f-4e00-b9f1-377d97d43244" />
 
 ## PCB + Schematic
 <img width="1000" alt="schematic" src="https://github.com/user-attachments/assets/00f930c6-4089-43e0-ac92-25cd2e9d7e3e" /> <br/>
