@@ -37,14 +37,15 @@ Made as part of Hackpad! (and the design competition due in like 4 days lmfao)
 
 | part | quantity |
 |------|------|
-| MX Switches | 8 |
+| Cherry MX Switches | 8 |
 | SK6812 MINI-E LEDs | 8 |
 | 0.91 inch OLED display | 1 |
 | M3 16mm Screws | 4 |
 | Seeed Studio XIAO RP2040 | 1 |
+| Wires (to connect OLED) | 1 |
 | 3D Printed Case (all parts) | 1 |
 | PCB | 1 |
-
+| Super Glue | 1 |
 
 
 
