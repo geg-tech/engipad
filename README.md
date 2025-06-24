@@ -57,6 +57,10 @@ note: wires, super glue, and a 3D printer to make the case are already owned! <b
 * A random website online that hosted the model files for the Engineer's PDA models, which allowed me to get accurate reference photos via Blender
 * The people behind Highway and Hackpad as always :3
 
+also i couldn't find anywhere to fit a picture of the actual PDA from the game so it goes here
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/1a6aabfa-4f78-4f00-b290-209be3805ae4" />
+
+
 ![engi](https://github.com/user-attachments/assets/ca9a59c2-7066-44a9-9029-d5dbd66dcee0)
 
 
