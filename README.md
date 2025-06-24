@@ -46,7 +46,17 @@ Made as part of Hackpad! (and the design competition due in like 4 days lmfao)
 | Wires (to connect OLED) | 1 |
 | 3D Printed Case (all parts) | 1 |
 | PCB | 1 |
-| Super Glue | 1 |
+| Super Glue | 1 | <br/>
 
+note: wires, super glue, and a 3D printer to make the case are already owned! <br/>
+
+## extras
+
+### Credit and Thanks
+* Huge credit to [@samliu's Squarepad](https://github.com/samdev-7/squarepad/tree/main)! Their slot design for the OLED inspired a good chunk of the CAD for this macropad, which is seen in the split apart screen with the OLED sandwiched in between
+* A random website online that hosted the model files for the Engineer's PDA models, which allowed me to get accurate reference photos via Blender
+* The people behind Highway and Hackpad as always :3
+
+![engi](https://github.com/user-attachments/assets/ca9a59c2-7066-44a9-9029-d5dbd66dcee0)
 
 
