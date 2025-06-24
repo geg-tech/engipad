@@ -9,7 +9,7 @@ Speaking of the Engineer, I made my macropad work with my custom keybinds for Fu
 
 Made as part of Hackpad! (and the design competition due in like 4 days lmfao)
 
-**Features**
+### Features!
 * 8 keys binded to my most used Fusion 360 commands
 * OLED display and RGB
 * Custom case and keycaps modeled after the Engineer's Construction PDA
@@ -35,7 +35,15 @@ Made as part of Hackpad! (and the design competition due in like 4 days lmfao)
 
 ## BOM
 
-
+| part | quantity |
+|------|------|
+| MX Switches | 8 |
+| SK6812 MINI-E LEDs | 8 |
+| 0.91 inch OLED display | 1 |
+| M3 16mm Screws | 4 |
+| Seeed Studio XIAO RP2040 | 1 |
+| 3D Printed Case (all parts) | 1 |
+| PCB | 1 |
 
 
 
