@@ -45,10 +45,11 @@ Made as part of Hackpad! (and the design competition due in like 4 days lmfao)
 | Seeed Studio XIAO RP2040 | 1 |
 | Wires (to connect OLED) | 1 |
 | 3D Printed Case (all parts) | 1 |
+| 3D Printed Keycaps | 8 |
 | PCB | 1 |
 | Super Glue | 1 | <br/>
 
-note: wires, super glue, and a 3D printer to make the case are already owned! <br/>
+note: wires, super glue, and a 3D printer to make the case/keycaps are already owned! <br/>
 
 ## extras
 
