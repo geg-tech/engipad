@@ -5,6 +5,8 @@ description: "The Engineer's Construction PDA from Team Fortress 2, now as a mac
 created_at: "2025-06-20"
 ---
 
+# Total Hours (at time of submission): 16 hours
+
 back at it with another project :3 <br/>
 this time a quick one! <br/>
 (dates are again in mm/dd/yy cuz 🦅) <br/>
@@ -103,7 +105,9 @@ I edited the code to fit my Hackpad's direct, 8-key wiring, as well as setting t
 
 I also set up the code for the OLED and RGB, making the OLED print out "engineer gamin" for now and the RGB set to a default RGB pattern by QMK. I plan to fine tune and test out the firmware more accurately when the Hackpad parts come in, but this will do for now.
 
-current time: 3 hours rendering and programming QMK firmware
+After I got the firmware setup, I began working on my README and preparing this repo for submission :D
+
+current time: 4 hours rendering, programming QMK firmware, and setting up for submission
 
 
 
