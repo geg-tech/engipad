@@ -25,8 +25,8 @@ Made as part of Hackpad! (and the design competition due in like 4 days lmfao)
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/c85c55e1-cd6f-4e00-b9f1-377d97d43244" />
 
 ## PCB + Schematic
-<img width="750" alt="schematic" src="https://github.com/user-attachments/assets/00f930c6-4089-43e0-ac92-25cd2e9d7e3e" /> <br/>
-<img width="250" alt="PCB" src="https://github.com/user-attachments/assets/f01c83ac-3885-44c0-bed8-d0bc07ded868" />
+<img width="1000" alt="schematic" src="https://github.com/user-attachments/assets/00f930c6-4089-43e0-ac92-25cd2e9d7e3e" /> <br/>
+<img width="500" alt="PCB" src="https://github.com/user-attachments/assets/f01c83ac-3885-44c0-bed8-d0bc07ded868" />
 
 
 
