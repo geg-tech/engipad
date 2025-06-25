@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D12, D13, D14, D15, D16, D2, D3",LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm,8,SK6812MINI,
+OLED1,PinHeader_1x04_P2.54mm_Vertical,1,~,
+"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8",SW_Cherry_MX_1.00u_PCB,8,SW_Push,
+U1,XIAO-RP2040-DIP,1,XIAO-RP2040-DIP,
