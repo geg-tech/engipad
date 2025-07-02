@@ -109,5 +109,29 @@ After I got the firmware setup, I began working on my README and preparing this 
 
 current time: 4 hours rendering, programming QMK firmware, and setting up for submission
 
+## 7/2/25 - parts came in
+the parts actually came in two days ago but i was lazy so im putting this under today <br/>
 
+Got my parts from hack club! <br/>
+I 3D printed my custom keycaps using the last of my black filament and test fitted the keycaps on the switches. I was worried about my printer screwing up the stem geometry, but turned out the outer diameter of the stem was too big to fit in the switch (6mm wide to the switches' 5.4mm size limit). <br/>
+
+Once I got the keycaps down, I turned to the hardware, soldering the headers onto the OLED and rp2040 and then flashing the firmware. The current firmware was preliminary, so only part of it worked with many of the features like the OLED and RGB not implemented, so I started work on that. <br/>
+
+Once I made a proper keybaord setup with QMK, I started to work on the *keyboard.json* and *keymap.c* files. <br/>
+I thought my current matrix setup would work, but QMK would refuse to compile it. I thought it was something to do with the microcontroller or me setting up QMK incorrectly, but ended up being an issue with the GPIO pin names. I initially put in the pin names found on the [Seeed Studio store page](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) (D1, D2, D3, etc.), but QMK only recognizes the original GPIO names on the chip, meaning that I had to go into my schematic and adjust the GPIO names to the ones on the rp2040 chip. <br/>
+
+<img width="240" alt="image" src="https://github.com/user-attachments/assets/c6842bf7-10ed-4c1c-ae2e-1dbbb294e5d3" /> <br/>
+
+The firmware managed to compile and work when I connected GND to the GPIO pins, which left me with coding the RGB and OLED. <br/>
+There *really* wasn't any good sources online from my very short research into Google, since many of the wiki pages and videos referenced a rules.mk and config file that *should* have been made with the keybaord, so I went into [@alexren's Orpheuspad](https://github.com/hackclub/hackpad/tree/03a6a5542e0cffbb43e530b67994741fcccb205e/hackpads/orpheuspad/firmware/QMK) for reference on how to implement OLED and RGB. <br/>
+Turns out, I was supposed to make my **own** rules.mk and config.h file inside the keyboard, so I proceeded to make those files and put in the settings for the additions. I'm not able to test out the rgb as of now since my PCB isn't here, but I managed to get the OLED screen working with QMK. <br/>
+
+I used the QMK wiki page for [oled drivers](https://docs.qmk.fm/features/oled_driver) and tweaked around with the code for the logo, and managed to get the OLED to display my own custom image by making my own *glcdfont.c* file and pasting in code from this [logo editor](https://joric.github.io/qle/). <br/>
+I made the custom image with photoshop, down sizing and adjusting the images used for my PCB's silkscreen art. <br/>
+
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/ea09f5d1-a655-43e3-87f5-15e7256be479" />
+
+![engipad-banner](https://github.com/user-attachments/assets/87ba6aca-e7af-4ff1-90e8-54b5f2c805ac)
+
+time spent: 5 hours soldering, coding hardware, and redesigning keycaps
 
