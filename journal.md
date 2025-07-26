@@ -135,3 +135,30 @@ I made the custom image with photoshop, down sizing and adjusting the images use
 
 time spent: 5 hours soldering, coding hardware, and redesigning keycaps
 
+## post build update (7/25/25)
+the hackpad works RAAAGH <br/>
+
+Today (and last night), I spent time building the last of the firmware and polishing up the build. I printed the case, painted, and soldered everything before hand, but today was the day I could actually call it *done* <br/>
+
+here are some cool pictures of the final product: <br/>
+![yowza](https://github.com/user-attachments/assets/3abc948c-4b4c-46c7-bc1a-7aa65fa5acef)
+![yowza Small](https://github.com/user-attachments/assets/55e955cc-1350-49de-a313-ddc9eb73eaa1)
+![IMG_7777 Small](https://github.com/user-attachments/assets/bcf8c9e8-2703-4d2b-98ec-da697c8ce356) <br/>
+
+i also made a post about it in my [personal slack channel](https://hackclub.slack.com/archives/C096FEXCM8T/p1753489905242969) with additional videos of it working (i'll post the demo videos on reddit/youtube later trust) <br/>
+
+Overall, I'm *really* proud of this project. I practically grew up on TF2, being shown youtube poops and shitposts by my older brothers about it and being a pretty active (and shitty) engi main, so having something I'm familiar with and fond of is really cool. <br/>
+This was also my first time genuinely painting and post-processing a print/project before, since many of the smaller projects I've did before had minor sanding and pretty much zero to no painting, so having this experience was definitely a game changer for me.
+> I'm in the process of painting the biblically accurate keyboard btw (it's a massive pain to handwire)
+
+***While this is the final product***, I also made a V2 in my personal time! I redesigned the PCB to support an optional encoder, revamped some footprints, and added a matrix configuration to support the encoder as a switch. I also added and fixed some of the RGB lights, totaling to 12 lights. <br/>
+I also revamped the backside art, which is possibly my *favorite* art so far along side the hacker card I made a while back. <br/>
+
+<img width="1012" height="1426" alt="image" src="https://github.com/user-attachments/assets/109dac03-936d-4862-8e0d-df5ad3cca514" /> <br/>
+<img width="1010" height="1426" alt="image" src="https://github.com/user-attachments/assets/99d99d6c-360c-4518-9ea4-f42188913850" /> <br/>
+<img width="1016" height="1418" alt="image" src="https://github.com/user-attachments/assets/9ec5f678-0a12-406f-ae03-a645a7621ef0" /> <br/>
+
+I already returned the grant, so I'll most likely have to pay this out of pocket or use Grounded, but it was a nice challenge (and honestly really relaxing) to remake the PCB.
+
+
+
