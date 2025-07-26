@@ -34,7 +34,6 @@ Made as part of Hackpad! (and the design competition due in like 4 days lmfao)
 <img width="1000" alt="schematic" src="https://github.com/user-attachments/assets/8be45133-224d-4813-a907-0436716457a5" />
 <img width="350" alt="PCB" src="https://github.com/user-attachments/assets/f01c83ac-3885-44c0-bed8-d0bc07ded868" />
 <img width="330" alt="front side" src="https://github.com/user-attachments/assets/900bf722-32ac-4fd1-9be1-46d3e6a51196" />
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/7b5d69dd-7767-4431-8937-ceb9d9caa9b6" />
 
 > (note: the back silkscreen in the first PCB view is hidden since it looks very cluttered with it visible)
 
