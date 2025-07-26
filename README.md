@@ -1,6 +1,4 @@
 # EngiPad - The Construction PDA Macropad
-
-![A badge of a Cerberus and a raccoon laughing together, with the text "HIGHWAY" and "HACK CLUB" beside them.](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0bbcca68ffa3845300bb76940f8ad91fd53d2d68_06-30-2025-1618.png)
 > update! i remade the PCB for this macropad in the brand spankin new folder named **ENGIPAD \\\ V2**! this readme and repo currently covers version 1 of the build (which is now finished)
 
 This is a 8-key Hackpad with RGB lighting and an integrated OLED display in the case, modeled after the Engineer's PDA from *Team Fortress 2*. <br/>
@@ -66,5 +64,8 @@ also i couldn't find anywhere to fit a picture of the actual PDA from the game s
 
 
 ![engi](https://github.com/user-attachments/assets/ca9a59c2-7066-44a9-9029-d5dbd66dcee0)
+
+
+![A badge of a Cerberus and a raccoon laughing together, with the text "HIGHWAY" and "HACK CLUB" beside them.](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0bbcca68ffa3845300bb76940f8ad91fd53d2d68_06-30-2025-1618.png)
 
 
