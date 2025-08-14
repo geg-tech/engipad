@@ -4,6 +4,7 @@
 ![IMG_7791 Large](https://github.com/user-attachments/assets/6fce8e91-3763-4c66-9a0e-499aa02cd8e0)
 
 This is a 8-key Hackpad with RGB lighting and an integrated OLED display in the case, modeled after the Engineer's PDA from *Team Fortress 2*. <br/>
+[*see it in action in this handy dandy youtube video!*](https://youtu.be/H9Vl-Haxy5c)
 
 ![screenie](https://github.com/user-attachments/assets/d68473dc-4194-43ff-a142-3ab219a0e345)
 The idea came a couple days ago, when I was scrolling through the TF2 wiki and noticed that the PDA would make for a *fire* macropad. I had extra time on hand and was waiting for the parts to come in for my main project, [The Biblically Accurate Keyboard](https://github.com/hunkegg/biblicallyaccuratekeyboard), so I decided to go ahead and try to speedrun designing an actual macropad this time. <br/>
