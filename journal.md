@@ -156,7 +156,7 @@ time spent: 8 hours painting (holy :sob:)
 ## 7/25/25 - Finalizing Firmware
 Today I started to finalize the firmware. <br/>
 I initially planned to set the macropad to just Fusion keybinds, but out of sheer curiosity I decided to tinker around with key layers and macros. <br/>
-I used the QMK wiki and the (OrpheusPad GitHub)[https://github.com/hackclub/hackpad/blob/03a6a5542e0cffbb43e530b67994741fcccb205e/hackpads/orpheuspad/firmware/QMK/keymaps/default/keymap.c] to piece together how to use layers and ended up with the following code: <br/>
+I used the QMK wiki and the [OrpheusPad GitHub](https://github.com/hackclub/hackpad/blob/03a6a5542e0cffbb43e530b67994741fcccb205e/hackpads/orpheuspad/firmware/QMK/keymaps/default/keymap.c) to piece together how to use layers and ended up with the following code: <br/>
 
 <img width="674" height="619" alt="image" src="https://github.com/user-attachments/assets/57408326-d2a4-4824-9f82-ddb2020b10e8" /> <br/>
 
@@ -164,7 +164,7 @@ After I got the layers working, I started work on showing the layer setting on t
 
 ![switcher-ezgif com-optimize](https://github.com/user-attachments/assets/ac110ef6-3852-4c27-a536-a21bf98cf404)
 
-To actually switch the layers, I found a handy (Reddit comment)[https://www.reddit.com/r/olkb/comments/1h5jja5/comment/m07eidj/] from a while back that makes layer switching pretty obvious. It's probably not efficient, but it's awfully simple and works for my scale. <br/>
+To actually switch the layers, I found a handy [Reddit comment](https://www.reddit.com/r/olkb/comments/1h5jja5/comment/m07eidj/) from a while back that makes layer switching pretty obvious. It's probably not efficient, but it's awfully simple and works for my scale. <br/>
 
 After I fully fleshed out the layers, I got to configuring the macros and keybinds to each layer. I did a lil research on the keybinds found on each website/app I wanted to use the macropad on, such as discord and youtube, and filled out the keymap. <br/>
 
