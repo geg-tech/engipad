@@ -15,12 +15,13 @@ Speaking of the Engineer, I made my macropad work with my custom keybinds for Fu
 Made as part of Hackpad! (and the design competition due in like 4 days lmfao)
 
 ### Features!
-* 8 keys binded to my most used Fusion 360 commands
+* 8 keys
 * OLED display and RGB
 * Custom case and keycaps modeled after the Engineer's Construction PDA
 * An alternate CAD file to fit a metal toggle switch I have on hand
 * QMK firmware
 * TF2 inspired silkscreen on the front and Highway silkscreen on the back
+* 5 different key layers, set to keybinds for general use, Discord, Youtube, Minecraft, and Fusion 360
 
 ## CAD
 <img width="335" alt="render" src="https://github.com/user-attachments/assets/86567846-fd52-406e-85c0-6c4cc1d81d97" />
