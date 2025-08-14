@@ -6,7 +6,7 @@ created_at: "2025-06-20"
 ---
 
 # Hours at time of submission): 16 hours
-# Total Hours: 
+# Total Hours: 29 Hours
 
 back at it with another project :3 <br/>
 this time a quick one! <br/>
