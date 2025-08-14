@@ -1,6 +1,8 @@
 # EngiPad - The Construction PDA Macropad
 > update! i remade the PCB for this macropad in the brand spankin new folder named **ENGIPAD \\\ V2**! this readme and repo currently covers version 1 of the build (which is now finished)
 
+![IMG_7791 Large](https://github.com/user-attachments/assets/6fce8e91-3763-4c66-9a0e-499aa02cd8e0)
+
 This is a 8-key Hackpad with RGB lighting and an integrated OLED display in the case, modeled after the Engineer's PDA from *Team Fortress 2*. <br/>
 
 ![screenie](https://github.com/user-attachments/assets/d68473dc-4194-43ff-a142-3ab219a0e345)
