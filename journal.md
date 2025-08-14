@@ -5,7 +5,8 @@ description: "The Engineer's Construction PDA from Team Fortress 2, now as a mac
 created_at: "2025-06-20"
 ---
 
-# Total Hours (at time of submission): 16 hours
+# Hours at time of submission): 16 hours
+# Total Hours: 
 
 back at it with another project :3 <br/>
 this time a quick one! <br/>
@@ -135,15 +136,58 @@ I made the custom image with photoshop, down sizing and adjusting the images use
 
 time spent: 5 hours soldering, coding hardware, and redesigning keycaps
 
-## post build update (7/25/25)
-the hackpad works RAAAGH <br/>
+## 7/10/25 - Painting
+Today I spent the entire morning painting wow <br/>
+I got some cheap matte acrylic from Walmart on a grocery trip a while back, and used those and some old paints from my brother to make the colors on the PDA. This was also my first time actually *painting* a 3D print, as well as trying to match colors with mixing paints and such. <br/>
 
-Today (and last night), I spent time building the last of the firmware and polishing up the build. I printed the case, painted, and soldered everything before hand, but today was the day I could actually call it *done* <br/>
+![IMG_7656](https://github.com/user-attachments/assets/5aa14cf3-42b1-4e89-9c02-244d67826968)
 
-here are some cool pictures of the final product: <br/>
+It was surprisingly hard to try to match the colors, since the black I used either overpowered everything and made it super dark or did nothing (tbh skill issue on my part) <br/>
+After a while, I got the parts to a pretty good match, with the keys/case being dark grey, cream, or a maroon type color. <br/>
+
+After letting them dry, I put together the case. The parts were a bit hard to fit now that they had a coat of paint messing up the tolerances, but they ended up friction fitting themselves pretty nicely.
+
 ![yowza](https://github.com/user-attachments/assets/3abc948c-4b4c-46c7-bc1a-7aa65fa5acef)
 ![yowza Small](https://github.com/user-attachments/assets/55e955cc-1350-49de-a313-ddc9eb73eaa1)
 ![IMG_7777 Small](https://github.com/user-attachments/assets/bcf8c9e8-2703-4d2b-98ec-da697c8ce356) <br/>
+
+time spent: 8 hours painting (holy :sob:)
+
+## 7/25/25 - Finalizing Firmware
+Today I started to finalize the firmware. <br/>
+I initially planned to set the macropad to just Fusion keybinds, but out of sheer curiosity I decided to tinker around with key layers and macros. <br/>
+I used the QMK wiki and the (OrpheusPad GitHub)[https://github.com/hackclub/hackpad/blob/03a6a5542e0cffbb43e530b67994741fcccb205e/hackpads/orpheuspad/firmware/QMK/keymaps/default/keymap.c] to piece together how to use layers and ended up with the following code: <br/>
+
+<img width="674" height="619" alt="image" src="https://github.com/user-attachments/assets/57408326-d2a4-4824-9f82-ddb2020b10e8" /> <br/>
+
+After I got the layers working, I started work on showing the layer setting on the OLED. The logo I made earlier only took up the bottom 3 rows out of 4 on the OLED, so I could use the first row to show the layer. <br/>
+
+![switcher-ezgif com-optimize](https://github.com/user-attachments/assets/ac110ef6-3852-4c27-a536-a21bf98cf404)
+
+To actually switch the layers, I found a handy (Reddit comment)[https://www.reddit.com/r/olkb/comments/1h5jja5/comment/m07eidj/] from a while back that makes layer switching pretty obvious. It's probably not efficient, but it's awfully simple and works for my scale. <br/>
+
+After I fully fleshed out the layers, I got to configuring the macros and keybinds to each layer. I did a lil research on the keybinds found on each website/app I wanted to use the macropad on, such as discord and youtube, and filled out the keymap. <br/>
+
+<img width="605" height="357" alt="image" src="https://github.com/user-attachments/assets/19fc94ee-4d43-4da8-85fc-843005d910db" /> <br/>
+
+For certain shortcuts like muting or opening F3 keystrokes, I made macros for each of them. For some reason, the built in undo keycode for QMK doesn't work on my macbook, so I also had to make a custom macro for that too <br/>
+
+<img width="844" height="688" alt="image" src="https://github.com/user-attachments/assets/ac79c0e4-89ba-4161-b2ea-488e1d8a2c0d" /> <br/>
+
+I also made a custom macro as a reference to one of my friends, which literally replaces all typed text with yo <br/>
+
+<img width="445" height="152" alt="image" src="https://github.com/user-attachments/assets/86825790-17a2-4bf4-bb17-f90853f3b88e" />
+
+lowk i forgot how long i took on this part, but Hackatime says I took about 5 hours which is kinda wild imo <br/>
+
+<img width="512" height="54" alt="image" src="https://github.com/user-attachments/assets/c6aeacd9-ca3b-4b60-bfa9-58cc5ad3ba88" /> <br/>
+
+### time spent: 5 hours
+
+
+## post build update
+
+
 
 i also made a post about it in my [personal slack channel](https://hackclub.slack.com/archives/C096FEXCM8T/p1753489905242969) with additional videos of it working (i'll post the demo videos on reddit/youtube later trust) <br/>
 
