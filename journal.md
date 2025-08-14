@@ -186,10 +186,9 @@ lowk i forgot how long i took on this part, but Hackatime says I took about 5 ho
 
 
 ## post build update
+shipped this macropad :DDDD <br/>
 
-
-
-i also made a post about it in my [personal slack channel](https://hackclub.slack.com/archives/C096FEXCM8T/p1753489905242969) with additional videos of it working (i'll post the demo videos on reddit/youtube later trust) <br/>
+i also made a post about it in my [personal slack channel](https://hackclub.slack.com/archives/C096FEXCM8T/p1753489905242969) with additional videos of it working in the README.md and on [reddit](https://www.reddit.com/r/tf2/comments/1m9iodj/recreated_the_engineers_construction_pda_as_a/) <br/>
 
 Overall, I'm *really* proud of this project. I practically grew up on TF2, being shown youtube poops and shitposts by my older brothers about it and being a pretty active (and shitty) engi main, so having something I'm familiar with and fond of is really cool. <br/>
 This was also my first time genuinely painting and post-processing a print/project before, since many of the smaller projects I've did before had minor sanding and pretty much zero to no painting, so having this experience was definitely a game changer for me.
